@@ -1,0 +1,13 @@
+me\conflicted\kitmap\KitMapPlugin$1.class
+me\conflicted\kitmap\database\type\DatabaseType.class
+me\conflicted\kitmap\serializable\InventorySerializer.class
+me\conflicted\kitmap\kit\Kit.class
+me\conflicted\kitmap\commands\KitCommand.class
+me\conflicted\kitmap\database\mongo\Credentials.class
+me\conflicted\kitmap\commands\DatabaseCommand.class
+me\conflicted\kitmap\listeners\SignListener.class
+me\conflicted\kitmap\database\mongo\Mongo.class
+me\conflicted\kitmap\KitMapPlugin.class
+me\conflicted\kitmap\kit\KitManager$1.class
+me\conflicted\kitmap\serializable\SerializableLocation.class
+me\conflicted\kitmap\kit\KitManager.class

@@ -1,0 +1,9 @@
+# You can either choose FLAT, for flat-file or MONGO for mongo database storage. #
+Database-type: FLAT
+# Only fill this in if you are using MONGO #
+Database:
+  host: localhost
+  port: 27017
+  database: admin
+  user: admin
+  pass: password

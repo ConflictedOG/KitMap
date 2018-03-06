@@ -1,0 +1,8 @@
+name: KitMap
+version: 0.1-SNAPSHOT
+author: Conflicted
+description: KitMap v0.1-SNAPSHOT by Conflicted
+main: me.conflicted.kitmap.KitMapPlugin
+commands:
+ database:
+ kit:
